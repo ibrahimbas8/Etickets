@@ -9,3 +9,12 @@
 - User almak istediği filmi sepetine ekleyebilir ve paypal ile ödeme yapabilir.<br>
 
 ## Geliştirildiği Teknolojiler
+| Numara | Teknoloji | 
+| :--- | :---: | 
+| 1 | .NET Core MVC |
+| 2 | .NET Entity Framework |
+| 3 | MsSQL |
+| 4 | JS |
+| 5 | HTML5 |
+| 6 | CSS  |
+| 7 | BOOTSTRAP |
