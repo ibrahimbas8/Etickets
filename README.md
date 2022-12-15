@@ -23,6 +23,7 @@
 Aslında projeyi çalıştırmak oldukça basit.Uygulamayı başarılı bir şekilde çalıştırıp kullanmak için bilgisayarınızda en güncel dotnet sdk'sının kurulu olması gerekmektedir. Ardından ise veritabanı için Sql Server veritabanına sahip olmanız gerekmektedir. Kurulumlarınızı eksiksiz tamamladıysanız yapmanız gereken ilk şey migration eklemek olacak bunu Package Manager Console içerisinde "migrations add InitialCreate" komutu yardımıyla yapabilirsiniz. Daha sonra ise bu migration dosyası aracılığı ile veri tabanımızı kurmak için "update-database" komutunu kullanabilirsiniz.
 
 <hr/>
+
 ### Admin 
 
 Email : admin@gmail.com
