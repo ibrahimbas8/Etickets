@@ -41,4 +41,4 @@ Bu Emailleri kullanarak giriş yapabiliriz. Yeni kullanıcı oluşturmak için k
 ![Kodluyoruz Logo](images/admin4.png)
 ![Kodluyoruz Logo](images/admin5.png)
 ![Kodluyoruz Logo](images/admin6.png)
-![Kodluyoruz Logo](images/user1.png)
+![Kodluyoruz Logo](images/User1.png)
