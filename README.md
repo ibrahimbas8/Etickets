@@ -7,3 +7,5 @@
 - Admin yönetmen, sinema, aktör ve yeni film ekleyebilir, düzenleyebilir ve silebilir.<br>
 - User filmleri listeleyebilir. <br>
 - User almak istediği filmi sepetine ekleyebilir ve paypal ile ödeme yapabilir.<br>
+
+##Geliştirildiği Teknolojiler
