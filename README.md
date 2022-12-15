@@ -12,9 +12,8 @@
 | Numara | Teknoloji | 
 | :--- | :---: | 
 | 1 | .NET Core MVC |
-| 2 | .NET Entity Framework |
-| 3 | MsSQL |
-| 4 | JS |
-| 5 | HTML5 |
-| 6 | CSS  |
-| 7 | BOOTSTRAP |
+| 2 | MsSQL |
+| 3 | JS |
+| 4 | HTML5 |
+| 5 | CSS  |
+| 6 | BOOTSTRAP |
