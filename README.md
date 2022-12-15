@@ -34,6 +34,7 @@ Email : user@gmail.com
 Parola : 123456aA@
 
 Bu Emailleri kullanarak giriş yapabiliriz. Yeni kullanıcı oluşturmak için kayıt ol seçeneğini seçerek yeni kullanıcı oluşturabiliriz.
+
 ![Kodluyoruz Logo](images/sql.png)
 ![Kodluyoruz Logo](images/login.png)
 ![Kodluyoruz Logo](images/admin1.png)
