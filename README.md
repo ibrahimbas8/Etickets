@@ -8,4 +8,4 @@
 - User filmleri listeleyebilir. <br>
 - User almak istediği filmi sepetine ekleyebilir ve paypal ile ödeme yapabilir.<br>
 
-##Geliştirildiği Teknolojiler
+## Geliştirildiği Teknolojiler
