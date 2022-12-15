@@ -1,5 +1,5 @@
 # Etickets
-![Kodluyoruz Logo](images/1.png)
+![Etickets App](images/1.png)
  
 <hr/>
 - E Tickets uygulaması ile admin ve user olmak üzere iki rol bulunmaktadır. <br>
@@ -35,12 +35,12 @@ Parola : 123456aA@
 
 Bu Emailleri kullanarak giriş yapabiliriz. Yeni kullanıcı oluşturmak için kayıt ol seçeneğini seçerek yeni kullanıcı oluşturabiliriz.
 
-![Kodluyoruz Logo](images/sql.png)
-![Kodluyoruz Logo](images/login.png)
-![Kodluyoruz Logo](images/admin1.png)
-![Kodluyoruz Logo](images/admin2.png)
-![Kodluyoruz Logo](images/admin3.png)
-![Kodluyoruz Logo](images/admin4.png)
-![Kodluyoruz Logo](images/admin5.png)
-![Kodluyoruz Logo](images/admin6.png)
-![Kodluyoruz Logo](images/User1.png)
+![Etickets App](images/sql.png)
+![Etickets App](images/login.png)
+![Etickets App](images/admin1.png)
+![Etickets App](images/admin2.png)
+![Etickets App](images/admin3.png)
+![Etickets App](images/admin4.png)
+![Etickets App](images/admin5.png)
+![Etickets App](images/admin6.png)
+![Etickets App](images/User1.png)
