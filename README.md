@@ -2,14 +2,14 @@
 ![Etickets App](images/1.png)
  
 <hr/>
-- E Tickets uygulaması ile admin ve user olmak üzere iki rol bulunmaktadır. <br>
-- Admin kullanıcı listesini görebilir. Satın alınan biletleri görebilir. <br>
-- Admin yönetmen, sinema, aktör ve film ekleyebilir, düzenleyebilir ve silebilir.<br>
-- User filmleri listeleyebilir. <br>
-- User almak istediği filmi sepetine ekleyebilir ve paypal ile ödeme yapabilir.<br>
+- There are two roles, admin and user, with the E Tickets application. <br>
+- Admin can see the user list. Can see purchased tickets. <br>
+- Admin can add, edit and delete directors, movies, actors and movies.<br>
+- User can list movies. <br>
+- User can add the movie he wants to buy to his cart and pay with paypal.<br>
 
-## Geliştirildiği Teknolojiler
-| Numara | Teknoloji | 
+## Technologies Developed
+| Id | Technologies | 
 | :--- | :---: | 
 | 1 | .NET Core MVC |
 | 2 | MsSQL |
@@ -19,8 +19,8 @@
 | 6 | BOOTSTRAP |
 <hr/>
 
-## Ön Gereklilikler ve Kurulum
-Aslında projeyi çalıştırmak oldukça basit.Uygulamayı başarılı bir şekilde çalıştırıp kullanmak için bilgisayarınızda en güncel dotnet sdk'sının kurulu olması gerekmektedir. Ardından ise veritabanı için Sql Server veritabanına sahip olmanız gerekmektedir. Kurulumlarınızı eksiksiz tamamladıysanız yapmanız gereken ilk şey migration eklemek olacak bunu Package Manager Console içerisinde "migrations add InitialCreate" komutu yardımıyla yapabilirsiniz. Daha sonra ise bu migration dosyası aracılığı ile veri tabanımızı kurmak için "update-database" komutunu kullanabilirsiniz.
+## Prerequisites and Installation
+Actually, running the project is quite simple. To run and use the application successfully, you need to have the latest dotnet sdk installed on your computer. Then you need to have a Sql Server database for the database. If you have completed your installations completely, the first thing you need to do is to add migration, you can do this with the help of the "migrations add InitialCreate" command in the Package Manager Console. Then you can use the "update-database" command to install our database via this migration file.
 
 <hr/>
 
@@ -33,7 +33,7 @@ Parola : 123456aA@
 Email : user@gmail.com
 Parola : 123456aA@
 
-Bu Emailleri kullanarak giriş yapabiliriz. Yeni kullanıcı oluşturmak için kayıt ol seçeneğini seçerek yeni kullanıcı oluşturabiliriz.
+We can login using these Emails. To create a new user, we can create a new user by selecting the register option.
 
 ![Etickets App](images/sql.png)
 ![Etickets App](images/login.png)
